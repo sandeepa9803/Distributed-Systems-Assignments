@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="NewsApp-ejb/src/java"/>
+	<classpathentry kind="src" path="NewsApp-war/src/java"/>
+	<classpathentry kind="lib" path="build/NewsApp-ejb.jar"/>
+	<classpathentry kind="lib" path="extra/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="extra/org-netbeans-modules-javawebstart-anttasks.jar"/>
+	<classpathentry kind="lib" path="NewsApp-ejb/dist/NewsApp-ejb.jar"/>
+	<classpathentry kind="output" path="NewsApp-ejb/build/classes"/>
+</classpath>
